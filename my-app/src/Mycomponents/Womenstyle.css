@@ -1,0 +1,306 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.women-page {
+    display: flex;
+    padding: 20px 0px 0px 20px;
+    width: 100%;
+}
+
+.women-page h5 {
+    margin: 0px 4px;
+    font-size: 21px;
+    font-weight: 300;
+    color: rgb(29, 29, 71);
+    text-decoration: none;
+}
+
+.women-page a {
+    margin: 0px 4px;
+    font-size: 21px;
+    font-weight: 300;
+    color: rgb(29, 29, 71);
+}
+
+.women-page h6 {
+    margin: 0px 4px;
+    font-size: 18px;
+    font-weight: 300;
+    color: rgb(3, 3, 3);
+    padding-top: 3px;
+}
+
+.woman1-page {
+    width: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+.woman1-page video {
+    width: 93%;
+}
+
+.woman2-page {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+
+.woman2-page h1 {
+    width: 90%;
+    color: black;
+    font-size: 35px;
+    font-weight: 800;
+    border-top: 2px solid rgb(167, 164, 164);
+    margin-left: 5%;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+.woman2-page .woman3-page {
+    width: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 0px 200px;
+}
+
+.woman2-page .woman3-page .woman4-page {
+    width: 10%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 30px 25px 0px 25px;
+}
+
+.woman2-page .woman3-page .woman4-page .woman5-page {
+    width: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.woman2-page .woman3-page .woman4-page .woman5-page img {
+    width: 100%;
+    border-radius: 50pc;
+    cursor: pointer;
+}
+
+.woman2-page .woman3-page .woman4-page .woman5-page h5 {
+    color: black;
+    font-weight: 400;
+    font-size: 18px;
+    padding-top: 3px;
+}
+
+.woman6-page {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 50px 40px 0px 40px;
+}
+
+.woman6-page h6 {
+    font-size: 19px;
+    font-weight: 400;
+    color: rgb(163, 160, 160);
+    cursor: pointer;
+}
+
+.woman6-page a {
+    font-size: 19px;
+    font-weight: 400;
+    color: rgb(163, 160, 160);
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.woman7-page {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.woman7-page .woman8-page {
+    width: 20%;
+    padding: 20px 20px 0px 40px;
+    position: sticky;
+    top: 0;
+    left: 0;
+    overflow-y: scroll;
+    height: 10%;
+    z-index: 0;
+}
+
+.woman7-page .woman8-page .woman9-page {
+    display: flex;
+    flex-direction: column;
+}
+
+.woman7-page .woman8-page .woman9-page h1 {
+    color: black;
+    font-size: 28px;
+    font-weight: 400;
+}
+
+.woman7-page .woman8-page .woman9-page .woman10-page {
+    padding: 10px 0px 0px 20px;
+}
+
+.woman7-page .woman8-page .woman9-page .woman10-page h6 {
+    padding: 2px 0px;
+    color: rgb(94, 91, 91);
+    font-size: 17px;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+.woman7-page .woman8-page .woman9-page .woman10-page h6:hover {
+    color: rgb(12, 12, 12);
+}
+
+.woman7-page .woman8-page .woman9-page .woman10-page a {
+    text-decoration: none;
+}
+
+.woman7-page .woman8-page .woman11-page {
+    display: flex;
+    flex-direction: column;
+}
+
+.woman7-page .woman8-page .woman11-page h1 {
+    color: black;
+    font-size: 28px;
+    font-weight: 400;
+    padding-top: 10px;
+}
+
+.woman7-page .woman8-page .woman11-page .woman12-page {
+    display: flex;
+    flex-direction: column;
+    padding: 8px 0px 0px 20px;
+}
+
+.woman7-page .woman8-page .woman11-page .woman12-page input {
+    width: 30px;
+    height: 20px;
+    padding-top: 10px;
+}
+
+.woman7-page .woman8-page .woman11-page .woman12-page a {
+    text-decoration: none;
+    color: rgb(94, 91, 91);
+    font-size: 20px;
+    font-weight: 400;
+    padding: 3px 0px;
+    padding-right: 3px;
+}
+
+.woman7-page .woman8-page .woman11-page .woman12-page a:hover {
+    color: rgb(0, 0, 0);
+}
+
+.woman7-page .woman8-page .woman11-page .woman13-page {
+    display: flex;
+    padding: 8px 0px 0px 0px;
+}
+
+.woman7-page .woman8-page .woman11-page .woman13-page input {
+    width: 80px;
+    height: 60px;
+    display: flex;
+    margin: 0px 0px 0px 10px;
+    text-align: center;
+}
+
+.woman7-page .woman8-page .woman11-page .woman13-page button {
+    margin-left: 7px;
+    font-size: 10px;
+    font-weight: 500;
+    background-color: orangered;
+    border: none;
+    font-size: 16px;
+    font-weight: 400;
+    color: white;
+    width: 80px;
+    height: 60px;
+    border-radius: 2px;
+}
+
+.woman14-page {
+    display: flex;
+    justify-content: space-between;
+    width: 75%;
+    flex-wrap: wrap;
+}
+
+.woman14-page .woman15-page {
+    width: 21%;
+    display: flex;
+    flex-direction: column;
+    margin: 0px 50px 80px 0px;
+}
+
+.woman14-page .woman15-page .woman16-page {
+    width: 100%;
+    cursor: pointer;
+    position: relative;
+}
+
+.woman14-page .woman15-page .woman16-page img {
+    width: 100%;
+    cursor: pointer;
+}
+
+.woman14-page .woman15-page .woman16-page button {
+    color: white;
+    background-color: black;
+    width: 85%;
+    padding: 8px 0px;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 500;
+    position: absolute;
+    top: 78%;
+    left: 18px;
+    display: none;
+}
+
+.woman14-page .woman15-page:hover .woman16-page button {
+    display: block;
+}
+
+.woman14-page .woman15-page .woman17-page {
+    padding-top: 5px;
+}
+
+.woman14-page .woman15-page .woman17-page h4 {
+    color: black;
+    font-size: 17px;
+    font-weight: 500;
+    cursor: pointer;
+    padding-top: 8px;
+}
+
+.woman14-page .woman15-page:hover .woman17-page h4 {
+    text-decoration: underline;
+}
+
+.woman14-page .woman15-page .woman17-page h3 {
+    color: black;
+    font-size: 20px;
+    font-weight: 400;
+    cursor: pointer;
+    padding-top: 3px;
+}

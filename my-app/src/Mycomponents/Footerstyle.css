@@ -1,0 +1,105 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.hero12-page {
+    width: 100%;
+    display: flex;
+    padding: 80px 150px 0px 150px;
+    justify-content: center;
+    background-color: rgb(233, 230, 230);
+    margin-top: 80px;
+}
+
+.hero12-page .hero13-page {
+    width: 50%;
+    margin: 0px 100px;
+    padding: 0px 130px;
+}
+
+.hero12-page .hero13-page h1 {
+    color: black;
+    font-size: 25px;
+    font-weight: 800;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 30px;
+}
+
+.hero12-page .hero13-page ul {
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+}
+
+.hero12-page .hero13-page ul li {
+    list-style: none;
+    padding-top: 9px;
+}
+
+.hero12-page .hero13-page ul li a {
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    font-size: 17px;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+.hero12-page .hero13-page ul li a:hover {
+    color: rgb(68, 67, 67);
+}
+
+.footer1-page {
+    width: 100%;
+    background-color: rgb(233, 230, 230);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 50px 30px 0px 30px;
+}
+
+.footer1-page img {
+    margin: 0px 20px;
+    width: 50px;
+    cursor: pointer;
+}
+
+.footer2-page {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-color: rgb(233, 230, 230);
+    padding-top: 30px;
+}
+
+.footer3-page {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    background-color: rgb(233, 230, 230);
+}
+
+.footer3-page img {
+    margin: 20px 20px;
+    width: 50px;
+}
+
+.footer4-page {
+    width: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(233, 230, 230);
+}
+
+.footer4-page h5 {
+    color: rgb(104, 102, 102);
+    font-size: 17px;
+    font-weight: 300;
+    padding-bottom: 5px;
+}
